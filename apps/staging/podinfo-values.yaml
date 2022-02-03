@@ -11,7 +11,9 @@ spec:
     enable: false
   values:
     ui:
-      color: "#ff0000"
+      color: "#34577c"
+      message: "this is me"
+      logo: ""
     ingress:
       hosts:
         - host: podinfo.staging
