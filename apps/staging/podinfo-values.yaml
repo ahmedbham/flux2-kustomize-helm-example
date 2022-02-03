@@ -12,7 +12,7 @@ spec:
   values:
     ui:
       color: "#34577c"
-      message: "this is me"
+      message: "this is me Ahmed"
       logo: ""
     ingress:
       hosts:
